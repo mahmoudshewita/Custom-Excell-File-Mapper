@@ -1,0 +1,9 @@
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\obj\Debug\ExcellMapper.csproj.AssemblyReference.cache
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\obj\Debug\ExcellMapper.csproj.CoreCompileInputs.cache
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\bin\Debug\ExcellMapper.dll
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\bin\Debug\ExcellMapper.pdb
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\obj\Debug\ExcellMapper.csproj.CopyComplete
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\obj\Debug\ExcellMapper.dll
+C:\Users\m.shewita\Desktop\-\ExcellMapper\ExcellMapper\ExcellMapper\obj\Debug\ExcellMapper.pdb
